@@ -1,0 +1,59 @@
+.green
+{
+	background: #9ACD32;
+	color: black;
+}
+.yellow
+{
+	background: #FFD700;
+	color: black;
+}
+.blue
+{
+	background: #B0E0E6;
+	color: black;
+}
+.pink
+{
+	background: pink;
+	color: black;
+}
+table
+{
+	width: 100%;
+}
+td
+{
+	position: relative;
+	width: 5%;
+	height: 70px;
+	text-align: center;
+	font-style: bold;
+	border: 1px solid black;
+}
+
+p
+{
+    margin:3px;
+    font-size:1vw;
+}
+
+.no-border
+{
+	border: none;
+}
+.num
+{
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+}
+
+.atom
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+    text-align:right;
+}
